@@ -1,0 +1,3 @@
+CampaignFactory contract is at the address
+0x62E3E5F537f26d9572BbAD2D70E7D6275298F1c8
+in the Rinkeby network
